@@ -1,0 +1,16 @@
+{
+  "app": {
+    "chunks": [
+      "manifest",
+      "vendor",
+      "app"
+    ]
+  },
+  "editor": {
+    "chunks": [
+      "manifest",
+      "vendor",
+      "editor"
+    ]
+  }
+}
